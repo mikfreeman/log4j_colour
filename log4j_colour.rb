@@ -23,4 +23,5 @@ ARGF.each do |line|
   currentColour = yellow
  end
   puts "#{currentColour}#{line}"
+  STDOUT.flush
 end
