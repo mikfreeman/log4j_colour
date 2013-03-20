@@ -1,0 +1,16 @@
+ERROR : This should be RED
+DEBUG : This should be CYAN
+INFO  : This should be GREEN
+WARN  : This should be YELLOW
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+ERROR : This should be RED
+WARN  : This should be YELLOW
+
